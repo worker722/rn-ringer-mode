@@ -27,7 +27,3 @@ RingerMode.getRingerMode()
 .then(mode => {
     console.log(mode)
 });
-
-```
-[Example code](https://github.com/ryhnnl/rn-experimental/blob/65e4fa039567f8d5f375e27bd077f2f47f9c2613/src/screens/RingerModeExp.js#L47)
-  
