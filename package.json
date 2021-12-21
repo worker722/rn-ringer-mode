@@ -1,6 +1,6 @@
 {
   "_from": "rn-ringer-mode",
-  "_id": "rn-ringer-mode@1.0.2",
+  "_id": "rn-ringer-mode@1.0.3",
   "_inBundle": false,
   "_integrity": "sha512-QpPqrjKgSMKXiY7/jUOZwOkiODsGfnViF/6agxIRJ+nm+uxJUTT/1cRuNZSTiFrCq1gChXf0XJWbVpNsu/+F+w==",
   "_location": "/rn-ringer-mode",
@@ -23,7 +23,7 @@
   "_spec": "rn-ringer-mode",
   "_where": "D:\\Work\\android-react",
   "author": {
-    "name": "sunny king",
+    "name": "up manager",
     "email": "upmanager200@gmail.com",
     "url": "https://github.com/upmanager"
   },
@@ -55,5 +55,5 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "version": "1.0.2"
+  "version": "1.0.3"
 }
